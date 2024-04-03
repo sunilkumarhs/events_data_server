@@ -1,0 +1,26 @@
+{
+  "auth": [
+    {
+      "id": 1711992824947,
+      "name": "U2FsdGVkX1+3U2gM6yBxYrOis+TBlysW2PInzjlaMT8=",
+      "mail": "U2FsdGVkX19QzQStMiThmkc90h4AX5on9kc2oZ706CXgYoLr0bv8zxWdfs5EpB0Q",
+      "password": "3851a49320e3331773d22c5e365e0801934613952b6d4f8cb1eb10b87a863c5c",
+      "signedIn": false
+    },
+    {
+      "id": 1711997039120,
+      "name": "U2FsdGVkX1/D3xqA4ZLw6BAy15TRsfh+cpbbkvwiLik=",
+      "mail": "U2FsdGVkX1/PuwNq/Y5IRNL2T6/1zoqTxCW9VdGRskoPeowErYMp+/2JvZBpsr9M",
+      "password": "af674ed66a726918583170c53c585b02055e388d07642154616e10d0bd04fc63",
+      "signedIn": false
+    }
+  ],
+  "images": {
+    "loginImg": "U2FsdGVkX1+6dUc1ybAfYjKaqz+xFImZsBHrCQwaJTX3rgayxX6LAURF3UzmPlEduv9e0DGMt+4Jhh4iFrv8t6K4ZFIIU5I1OnQN1HYo/Us46HXE23jc+Kr2ALBwTHWj"
+  },
+  "appData": {
+    "bannerImage": "U2FsdGVkX18NWUN4AXBMpXqPravsOHgotFlnXZY92V5YKPuLHCTbaXvKEGsdLY2ahUlT4xFadPiJqDZUuqIq4ALghQJqPWxu2c7UZLillbSxeUgC2fi2P8Sx8+b4ShEr+tmJ6zA4YPoAMiD26o6Gkyp47piN9XQM7j6TxZOqwLA=",
+    "recomended": "U2FsdGVkX18v7ia9TgbUgzLBey4nzig56vrt7H9q8gZrTSSdcaIFvuTd7Im4i1vcZjal0CY3M/RE8annQu9ckh94AzTvNF+HJzgSjWR/dI70J18ddFjoSFUE1hGgdYRdyW360C34aQYPEaRntKYgBQK21h04D5pUhbah6rTiVHfUyetn/YQWL64ZboBoBeKuGaYhyaLD/CDVajvJfrkkYA==",
+    "upcomming": "U2FsdGVkX19w7CHKDdubJmcwqjsvbq7XXD/j9ymMHHXLJZ4YsZdgez+G9Ac5QzQAgiCoG88//fNMVl6AItc7XZRREdzT0sp2AEu1Dn+PUz9kbLF0yiPeRB54KnO9afxQTnabwiljjCmSWqZhJqSvelsJF5iqsuak//IOAlQMDV3X4R38z6bDvyTNReVn/UUBb2zvW2BlasVgPCosBv6I1g=="
+  }
+}
